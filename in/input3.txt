@@ -1,0 +1,35 @@
+3
+PersoanaFizica Catalin Viilor 19.10.2000
+PersoanaJuridica Apple Seattle 15000
+PersoanaFizica Marius Eroilor 15.04.1980
+PersoanaFizica Alin Pacii 15.04.1984
+PersoanaFizica Vasile Unirii 15.04.1981
+PersoanaJuridica Microsoft London 25000
+PersoanaFizica Mitica Preciziei 12.07.1988
+PersoanaFizica Mihai Pacii 15.04.1984
+PersoanaFizica Bot#1 Google 01.01.1999
+Tablou 1000 1918 Giovanni
+Bijuterie 2500 2015 aur true
+Mobila 600 2017 sifonier mahon
+Tablou 800 1920 Picasso
+Bijuterie 1200 2018 argint false
+Mobila 800 2014 canapea piele
+Bijuterie 3200 2013 diamant true
+Mobila 1200 2010 sifonier mahon
+Tablou 1000 1777 Picasso
+Bijuterie 2300 2018 emerald true
+Mobila 2000 2017 canapea piele
+Tablou 2200 1930 Picasso
+Bijuterie 700 2005 aur true
+Tablou 900 2000 BobRoss
+Bijuterie 2000 2007 diamant true
+Bijuterie 700 2002 argint false
+Mobila 1000 2020 canapea textil
+Bijuterie 1800 2012 rubin true
+Mobila 400 2017 dulap mahon
+Tablou 700 1920 VanGogh
+Licitatie 2 5
+Licitatie 2 7
+Licitatie 3 7
+Licitatie 3 7
+Licitatie 4 6

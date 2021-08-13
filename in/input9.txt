@@ -1,0 +1,79 @@
+11
+PersoanaFizica Catalin Viilor 19.10.2000
+PersoanaJuridica Apple Seattle 15000
+PersoanaFizica Marius Viilor 15.04.1980
+PersoanaFizica Alin Viilor 15.04.1984
+PersoanaFizica Vasile Viilor 15.04.1981
+PersoanaJuridica Microsoft London 25000
+PersoanaFizica Carol Viilor 15.04.1982
+PersoanaFizica Ion Viilor 15.04.1983
+PersoanaFizica Bot#1 Google 01.01.1999
+PersoanaFizica Bot#2 Google 03.01.1994
+PersoanaFizica Bot#3 Google 05.01.1993
+PersoanaJuridica BotJuridic#1 Facebook 14000
+PersoanaJuridica BotJuridic#2 Facebook 28000
+PersoanaJuridica BotJuridic#3 Facebook 15000
+PersoanaFizica Bot#4 Google 04.01.1999
+PersoanaFizica Bot#5 Google 01.01.1991
+PersoanaFizica Bot#6 Google 04.01.1992
+PersoanaFizica Bot#7 Google 03.01.1995
+PersoanaJuridica BotJuridic#4 Facebook 17000
+PersoanaFizica Bot#8 Google 04.01.1994
+Tablou 1000 1918 Giovanni
+Bijuterie 2500 2015 aur true
+Mobila 600 2017 sifonier mahon
+Tablou 800 1920 Picasso
+Bijuterie 1200 2018 argint false
+Mobila 800 2014 canapea piele
+Bijuterie 3200 2013 diamant true
+Mobila 1200 2010 sifonier mahon
+Tablou 1000 1777 Picasso
+Bijuterie 800 2012 rubin true
+Mobila 400 2017 dulap mahon
+Tablou 700 1920 VanGogh
+Bijuterie 1500 2018 emerald true
+Mobila 2000 2017 canapea piele
+Tablou 2200 1930 Picasso
+Bijuterie 700 2005 aur true
+Mobila 1000 2020 canapea textil
+Tablou 900 2000 BobRoss
+Bijuterie 2000 2007 diamant true
+Bijuterie 700 2002 argint false
+Tablou 2500 1930 Picasso
+Tablou 1200 2000 Bobita1
+Tablou 1600 2002 Bobita2
+Tablou 2000 2004 Bobita3
+Bijuterie 2600 2018 aur true
+Bijuterie 2000 2016 aur false
+Mobila 1350 2017 canapea1 piele1
+Mobila 1680 2017 canapea2 piele2
+Bijuterie 1800 2014 aur true
+Tablou 700 1920 VanGogh
+Bijuterie 1500 2018 emerald true
+Mobila 2000 2017 canapea piele
+Tablou 2200 1930 Picasso
+Bijuterie 700 2005 aur true
+Mobila 1000 2020 canapea textil
+Bijuterie 3200 2013 diamant true
+Mobila 1200 2010 sifonier mahon
+Tablou 1000 1777 Picasso
+Bijuterie 800 2012 rubin true
+Tablou 1000 1920 Picasso
+Bijuterie 1200 2018 argint false
+Mobila 800 2014 canapea pieleUrs
+Mobila 800 2014 canapea pieleCaprioara
+Mobila 800 2014 canapea pieleFoca
+Mobila 800 2014 canapea pieleVulpe
+Mobila 800 2014 canapea pieleRinocer
+Licitatie 2 5
+Licitatie 2 7
+Licitatie 3 7
+Licitatie 3 7
+Licitatie 4 7
+Licitatie 2 6
+Licitatie 3 7
+Licitatie 4 6
+Licitatie 3 7
+Licitatie 4 6
+Licitatie 2 6
+Licitatie 3 7
